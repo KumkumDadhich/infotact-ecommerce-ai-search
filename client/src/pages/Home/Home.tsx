@@ -1,10 +1,11 @@
-function Home() {
+import Hero from "../../components/Hero/Hero";
+
+const Home = () => {
   return (
-    <div>
-      <h1>Welcome to Infotact E-Commerce</h1>
-      <p>AI Powered Shopping Experience</p>
-    </div>
+    <>
+      <Hero />
+    </>
   );
-}
+};
 
 export default Home;
