@@ -5,18 +5,18 @@ const Hero = () => {
     <section className="flex min-h-[80vh] flex-col items-center justify-center bg-gray-50 px-6 text-center">
 
       <h1 className="mb-4 text-5xl font-bold text-gray-900">
-        Discover Amazing Products
+        AI Powered E-Commerce
       </h1>
 
-      <p className="mb-8 max-w-xl text-lg text-gray-600">
-        Shop smarter with AI-powered search and discover products
-        that perfectly match your needs.
+      <p className="mb-8 max-w-2xl text-lg text-gray-600">
+        Discover products instantly using AI-powered search.
+        Shop smarter, faster and better.
       </p>
 
       <div className="flex gap-4">
-        <HeroButton title="Shop Now" />
+        <HeroButton title="Explore Products" />
         <HeroButton
-          title="Explore Categories"
+          title="Learn More"
           variant="secondary"
         />
       </div>

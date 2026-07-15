@@ -1,0 +1,16 @@
+*   [33meb1b770[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mKumkum-dev[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m Merge branch 'main' of https://github.com/KumkumDadhich/infotact-ecommerce-ai-search :wq# especially if it merges an updated upstream into a topic branch.
+[31m|[m[32m\[m  
+[31m|[m *   [33mf0cd2fa[m Merge pull request #11 from KumkumDadhich/Kumkum-dev
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m6b2b072[m[33m ([m[1;31morigin/Kumkum-dev[m[33m)[m Merge pull request #10 from KumkumDadhich/feature/week-1-setup
+[31m|[m [33m|[m[33m/[m[36m|[m 
+[31m|[m [33m|[m *   [33meab3bff[m Merge pull request #9 from KumkumDadhich/Kumkum-dev
+[31m|[m [33m|[m [1;31m|[m[33m\[m  
+[31m|[m [33m|[m [1;31m|[m[33m/[m  
+[31m|[m [33m|[m[33m/[m[1;31m|[m   
+* [33m/[m [1;31m|[m [33me2599bc[m feat: setup application routing and create initial pages (fixes #1)
+[33m|[m[33m/[m [1;31m/[m  
+* [1;31m/[m [33m7f2c7bd[m chore: initialize React frontend architecture (fixes #1)
+[1;31m|[m[1;31m/[m  
+* [33ma836ec6[m[33m ([m[1;31morigin/feature/week-1-setup[m[33m, [m[1;32mfeature/week-1-setup[m[33m)[m feat: initialize React frontend with Vite (fixes #1)
+* [33me133be7[m chore: initialize project repository
