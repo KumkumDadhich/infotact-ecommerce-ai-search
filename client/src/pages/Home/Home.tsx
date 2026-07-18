@@ -1,15 +1,11 @@
-import Navbar from "../../components/Navbar/Navbar";
-import Hero from "../../components/Hero/Hero";
-import SearchBar from "../../components/SearchBar/SearchBar";
+import SearchBar from "../../components/common/SearchBar";
 
-const Home = () => {
+function Home() {
   return (
-    <>
-      <Navbar />
-      <Hero />
+    <div className="space-y-8">
       <SearchBar />
-    </>
+    </div>
   );
-};
+}
 
 export default Home;
